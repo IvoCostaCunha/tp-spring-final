@@ -1,10 +1,10 @@
-package unice.mymovie;
+package unice.mymovieservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MyMovieApplicationTests {
+class MyMovieServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
