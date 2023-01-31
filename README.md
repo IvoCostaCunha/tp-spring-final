@@ -13,3 +13,7 @@
 - http://localhost:8095/movie/title/{title}
 - http://localhost:8095/movies/year/{year}
 
+# NOTE
+Why is this so empty and bad ?
+Because I lost like 3h on why my app would fail to compile on some access to a not instanciated list.
+
